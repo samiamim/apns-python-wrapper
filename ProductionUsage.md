@@ -1,0 +1,1 @@
+By default both **APNSNotificationWrapper** and **APNSFeedbackWrapper** _work in sandbox mode_. To change it to production just set second arguments of constructor to False (sandbox argument).
